@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: Our Espresso
+image: /img/flavor_wheel.jpg
+heading: Single Origin Roasts
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -38,7 +37,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Single Origin Mastery
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -69,6 +68,8 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Mikhail Gorbachev
+    quote: This junk is pure perfection. The best I've had west of the Rockies.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -97,5 +98,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: '199'
 ---
+
