@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Espresso
+title: Delicious Caffeination
 image: /img/flavor_wheel.jpg
 heading: Single Origin Roasts
 description: >-
